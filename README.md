@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Wisconsin
 
-> Free BeamStation sample export with 54 rows and masked direct-contact fields.
+> Free BeamStation sample export with 49 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `387056` |
 | Location | Wisconsin |
 | Category | Food and Drink |
-| Full dataset size | 543 records |
-| Free sample size | 54 records (9.94%) |
-| Last export | 2026-04-23T18:26:14.670200+00:00 |
+| Full dataset size | 496 records |
+| Free sample size | 49 records (9.88%) |
+| Last export | 2026-05-01T09:31:32.740624+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-387056/releases/download/sample-latest/beamstation_387056_food_and_drink-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
